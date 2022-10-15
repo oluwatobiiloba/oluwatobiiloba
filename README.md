@@ -1,7 +1,6 @@
 <h1 align="center">Hello👋, I'm Tobii</h1>
 <h3 align="center">Hi there! I'm a budding software engineer who gets butterflies when working with new technologies</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oluwatobiiloba" alt="oluwatobiiloba" /></a> </p>
 
 - 🌱 I’m currently learning **nodejs,Express**
 
