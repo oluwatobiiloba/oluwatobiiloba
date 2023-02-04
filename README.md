@@ -17,5 +17,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oluwatobiiloba&show_icons=true&locale=en&layout=compact" alt="oluwatobiiloba" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oluwatobiiloba&show_icons=true&locale=en" alt="oluwatobiiloba" /></p>
-
+<p><a href="https://deepscan.io/dashboard#view=project&tid=20281&pid=23746&bid=724603"><img src="https://deepscan.io/api/teams/20281/projects/23746/branches/724603/badge/grade.svg" alt="DeepScan grade"></a></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oluwatobiiloba&" alt="oluwatobiiloba" /></p>
