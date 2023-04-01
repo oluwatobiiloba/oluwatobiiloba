@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋, I'm Tobii</h1>
-<h3 align="center">Hi there! I'm a budding software engineer who gets butterflies when working with new technologies</h3>
+<h3 align="center">Hi there! I'm a budding software engineer who gets butterflies when working with new technology.</h3>
 
 
 - 🌱 I’m currently building with **NodeJs**
