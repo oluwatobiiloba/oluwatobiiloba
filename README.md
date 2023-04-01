@@ -2,7 +2,7 @@
 <h3 align="center">Hi there! I'm a budding software engineer who gets butterflies when working with new technologies</h3>
 
 
-- 🌱 I’m currently building with **nodejs,Express**
+- 🌱 I’m currently building with **NodeJs**
 
 - 📫 How to reach me **Oluwatobiloba.f.a@gmail.com**
 
