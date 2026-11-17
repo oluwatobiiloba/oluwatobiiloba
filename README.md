@@ -1,10 +1,10 @@
 # Oluwatobiloba Aremu
 
-Backend engineer working on stablecoin, crypto and payments infrastructure. I build the systems that move money between crypto and bank accounts, and I build them so a provider's bad day never becomes a customer's wrong balance.
+Senior backend engineer working on stablecoin, crypto and payments infrastructure. I build the systems that move money between crypto and bank accounts, and I build them so a provider's bad day never becomes a customer's wrong balance.
 
 ## Now
 
-**Kora (Treasura)**: backend engineer on [Xebar](https://xebar.app), an app that turns USDT, BTC, ETH and SOL into local currency in a user's bank account. I work across deposits, swaps, crypto-to-cash payouts, P2P and OTC.
+**Kora (Treasura)**: senior backend engineer on [Xebar](https://xebar.app), an app that turns USDT, BTC, ETH and SOL into local currency in a user's bank account. I work across deposits, swaps, crypto-to-cash payouts, P2P and OTC.
 
 ## Before
 
